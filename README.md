@@ -49,7 +49,7 @@ I used CRNN to recognize catpcha.
 ![catpcha example](https://github.com/zstu-lly/CRNN-Keras/blob/master/examples/YndC.jpg)
 
 
-I updated the [captcha generator]() for those who lacked captcha pictures.
+I updated the [captcha generator](https://github.com/zstu-lly/CRNN-Keras/tree/master/generate_captcha) for those who lacked captcha pictures.
 
 
 ## Result
@@ -79,11 +79,11 @@ After creating training data in this way, put it in 'DB/train' directory and run
 
 os : Ubuntu 16.04.4 LTS
 
-GPU : GeForce GTX 1080 (8GB)
+GPU : Telas V100 (16GB)
 
-Python : 3.5.2
+Python : 3.6.5
 
-Tensorflow : 1.5.0
+Tensorflow : 1.9.0
 
 Keras : 2.1.3
 
