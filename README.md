@@ -41,15 +41,15 @@ Conversion of Feature-specific predictions to Label using CTC (Connectionist Tem
 
 - - -
 
-## license plate recognition using CRNN
+## catpcha recognition using CRNN
 
-I used CRNN to recognize license plates in Korea.
+I used CRNN to recognize catpcha.
 
-![Type of license plate](https://github.com/zstu-lly/CRNN-Keras/blob/master/examples/00aq.jpg)
+![catpcha example](https://github.com/zstu-lly/CRNN-Keras/blob/master/examples/00aq.jpg)
+![catpcha example](https://github.com/zstu-lly/CRNN-Keras/blob/master/examples/YndC.jpg)
 
-I learned the following kinds of Korean license plates.
 
-I updated the [Korean License Plate Synthetic image generator](https://github.com/qjadud1994/Korean-license-plate-Generator.git) for those who lacked license plate pictures.
+I updated the [captcha generator]() for those who lacked captcha pictures.
 
 
 ## Result
