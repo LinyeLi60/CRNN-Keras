@@ -45,7 +45,7 @@ Conversion of Feature-specific predictions to Label using CTC (Connectionist Tem
 
 I used CRNN to recognize license plates in Korea.
 
-![Type of license plate](https://github.com/qjadud1994/CRNN-Keras/blob/master/photo/license%20plate.jpg)
+![Type of license plate](https://github.com/zstu-lly/CRNN-Keras/blob/master/examples/00aq.jpg)
 
 I learned the following kinds of Korean license plates.
 
