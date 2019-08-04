@@ -53,7 +53,7 @@ I updated the [Korean License Plate Synthetic image generator](https://github.co
 
 
 ## Result
-![Result](https://github.com/qjadud1994/CRNN-Keras/blob/master/photo/result.jpg)
+![Result](https://github.com/zstu-lly/CRNN-Keras/blob/master/examples/prediction.png)
 
 CRNN works well for license plate recognition as follows.
 
