@@ -13,7 +13,7 @@ Actually this is used to generate training data of project [CRNN-Keras](https://
 ```python
 from captcha.core import Captcha
 
-c = Captcha(70, 30, debug=True)
+c = Captcha(150, 40, debug=True)
 c.batch_create_img(10)
 ```
 
