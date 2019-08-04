@@ -23,7 +23,7 @@ You can use CRNN for OCR, license plate recognition, text recognition, and so on
 It depends on what data you are training.
 
 I used a slightly modified version of the original CRNN model.
-(Input size : 100x30 -> 128x64 & more CNN Layer)
+(Input size : 70x30 -> 128x64 & more CNN Layer)
 
 ## Network
 
